@@ -1,1 +1,0 @@
-# TORPIC_Double-Support-Compliant-Ground-ver
