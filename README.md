@@ -12,7 +12,6 @@ Currently, the compliant ground are modeled by the spring damper model:
 Nonlinear and rigid contact models will be supported soon.
 
 
-![alt text](https://github.com/DI-X/HelloWorld/blob/master/phase.png?raw=true)
 <img src="https://github.com/DI-X/HelloWorld/blob/master/phase.png" width="300">
 <img src="spatial_12_dof.gif" width="500">
 
