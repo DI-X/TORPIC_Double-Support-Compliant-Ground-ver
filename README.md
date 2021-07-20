@@ -12,7 +12,7 @@ Currently, the compliant ground are modeled by the spring damper model:
 Nonlinear and rigid contact models will be supported soon.
 
 
-<img src="https://github.com/DI-X/HelloWorld/blob/master/phase.png" width="300">
+<img src="https://github.com/DI-X/HelloWorld/blob/master/phase.png" width="400">
 <img src="spatial_12_dof.gif" width="500">
 
 [1] [[Link]](https://github.com/fevrem/TROPIC/blob/master/MF_PMW_JPS_IROS2020_TROPIC.pdf) M. Fevre, P. M. Wensing, and J. P. Schmiedeler, "Rapid Bipedal Gait Optimization in CasADi", in Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 3672-3678.
