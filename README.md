@@ -6,10 +6,11 @@ This optimization package is developed based on TROPIC [1] that optimize the wal
 1. Optimaze the walking gaits on compliant ground.
 2. Optimize The walking gaits that is composed of the double support and sigle support phases as seen the below.
 
-&nbsp;Currently, the compliant ground are modeled by the spring damper model:
+&nbsp;&nbsp;Currently, the compliant ground are modeled by the spring damper model:
 
-&nbsp;<img src="https://latex.codecogs.com/svg.latex?\Large&space;F_{n\in\{x,y\}}=K_pd_n+K_d\dot{d}_n" title="\Large F_{n\in\{x,y\}}=K_pd_n+K_d\dot{d}_n" />
-&nbsp;Nonlinear and rigid contact models will be supported soon.
+&nbsp;&nbsp;<img src="https://latex.codecogs.com/svg.latex?\Large&space;F_{n\in\{x,y\}}=K_pd_n+K_d\dot{d}_n" title="\Large F_{n\in\{x,y\}}=K_pd_n+K_d\dot{d}_n" />
+
+&nbsp;&nbsp;Nonlinear and rigid contact models will be supported soon.
 
 
 <img src="https://github.com/DI-X/HelloWorld/blob/master/phase.png" width="400">
