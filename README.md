@@ -1,4 +1,4 @@
-# HelloWorld
+# TROPIC Double Support on Compliant Ground
 
 This optimization package is developed based on TROPIC [1] that optimize the walking gaits composed of alternation of single support phase on rigid ground.
 
