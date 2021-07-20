@@ -8,7 +8,7 @@ This optimization package is developed based on TROPIC [1] that optimize the wal
 
 &nbsp;&nbsp;Currently, the compliant ground are modeled by the spring damper model:
 
-&nbsp;&nbsp;<img src="https://latex.codecogs.com/svg.latex?\Large&space;F_{n\in\{x,y\}}=K_pd_n+K_d\dot{d}_n" title="\Large F_{n\in\{x,y\}}=K_pd_n+K_d\dot{d}_n" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/svg.latex?\Large&space;F_{n\in\{x,y\}}=K_pd_n+K_d\dot{d}_n" title="\Large F_{n\in\{x,y\}}=K_pd_n+K_d\dot{d}_n" />
 
 &nbsp;&nbsp;Nonlinear and rigid contact models will be supported soon.
 
