@@ -1,4 +1,4 @@
-# TROPIC Double Support on Compliant Ground
+# TROPIC: Double Support on Compliant Ground
 
 This optimization package is developed based on TROPIC [1] that optimize the walking gaits with the Hybrid Zero Dynamics types of controller.
 
